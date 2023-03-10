@@ -16,7 +16,7 @@ These four types of results in the 'csv' files are:
 
 - 'reserve': the summary of the under-delivered reserve of each player (i.e., microgrid) simulated in 150 out-of-sample tests.
 
-- 'violation': the summary of violation rates for 50 repeated experiments (each experiment includes 150 out-of-sample tests).
+- 'violation': the summary of violation rates obtained in 50 repeated experiments (each experiment includes 150 out-of-sample tests).
 
 The Final_plot.py in the folder allows reproducing the result charts (the charts are also in the result folder).
 
