@@ -18,6 +18,8 @@ These four types of results in the 'csv' files are:
 
 - 'violation': the summary of violation rates for 50 repeated experiments (each experiment includes 150 out-of-sample tests).
 
+The Final_plot.py in the folder allows reproducing the results charts.
+
 
 
 
