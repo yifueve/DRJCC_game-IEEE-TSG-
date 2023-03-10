@@ -14,6 +14,8 @@ These four kinds of csv files are:
 
 'profits': the summary of profits/costs of each player (i.e., microgrid). The last row is the cost of ISO.
 
+'reserve': the summary of under-delivered reserve of each player (i.e., microgrid) in 150 out-of-sample tests.
+
 
 
 
