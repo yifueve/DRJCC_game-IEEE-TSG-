@@ -12,6 +12,8 @@ These four kinds of csv files are:
 
 'optimization': the summary of game results include the energy and reserve bids of each player (i.e., microgrid). The positive value means microgrids procure energy and reserve services, and the negative value means microgrids sells energy and reserve services.
 
+'profits': the summary of profits/costs of each player (i.e., microgrid). The last row is the cost of ISO.
+
 
 
 
