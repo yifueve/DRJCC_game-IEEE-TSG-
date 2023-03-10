@@ -8,5 +8,9 @@ This repository is the supplement material for the submission of IEEE transactio
 
 Four kinds of csv files are presented. They are named by "type + number of players + scenarios". For example, the 'optimization10c1.csv' file presents the game optimization results in the 10-player game for scenario c1. 
 
+These four kinds of csv files are:
+
+
+
 
 
