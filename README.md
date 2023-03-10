@@ -10,6 +10,8 @@ Four kinds of csv files are presented. They are named by "type + number of playe
 
 These four kinds of csv files are:
 
+'optimization': the summary of game results include the energy and reserve bids of each player (i.e., microgrid). The positive value means microgrids procure energy and reserve services, and the negative means microgrids sells energy and reserve services.
+
 
 
 
