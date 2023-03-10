@@ -10,13 +10,13 @@ Four kinds of csv files are presented. They are named by "type of results + numb
 
 These four types of results in the 'csv' files are:
 
-'optimization': the summary of game results include the energy and reserve bids of each player (i.e., microgrid). The positive value means microgrids procure energy and reserve services, and the negative value means microgrids sells energy and reserve services.
+-'optimization': the summary of game results include the energy and reserve bids of each player (i.e., microgrid). The positive value means microgrids procure energy and reserve services, and the negative value means microgrids sells energy and reserve services.
 
-'profits': the summary of profits/costs of each player (i.e., microgrid). The last row is the cost of ISO.
+-'profits': the summary of profits/costs of each player (i.e., microgrid). The last row is the cost of ISO.
 
-'reserve': the summary of the under-delivered reserve of each player (i.e., microgrid) in 150 out-of-sample tests.
+-'reserve': the summary of the under-delivered reserve of each player (i.e., microgrid) in 150 out-of-sample tests.
 
-'violation': the summary of violation rates for 50 repeated experiments (each experiment includes 150 out-of-sample tests).
+-'violation': the summary of violation rates for 50 repeated experiments (each experiment includes 150 out-of-sample tests).
 
 
 
