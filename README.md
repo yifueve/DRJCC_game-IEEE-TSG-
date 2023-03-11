@@ -3,7 +3,7 @@
 Authors: Yifu Ding (MIT), Benjamin Hobbs (Johns Hopkins University)
 
 
-This repository is the supplement material for the submission of IEEE transactions on smart grid; The folder (Results) includes all the game results in the case study, which allows reproducing the result charts.
+This repository is the supplement material for the submission of IEEE transactions on smart grid, Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets; The folder (Results) includes all the game results in the case study, which allows reproducing the result charts.
 
 
 Four kinds of csv files are presented. They are named by "type of results + number of players + scenarios". For example, the 'optimization10c1.csv' file presents the game optimization results in the 10-player game for scenario c1. 
