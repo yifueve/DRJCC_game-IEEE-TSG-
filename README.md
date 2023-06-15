@@ -1,4 +1,4 @@
-# Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets
+# Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian optimization approach
 
 Authors: Yifu Ding (MIT), Benjamin Hobbs (Johns Hopkins University)
 
